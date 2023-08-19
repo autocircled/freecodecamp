@@ -2,7 +2,7 @@
   "name": "freecodecamp",
   "version": "1.0.0",
   "description": "",
-  "main": "2-es6/29-handle-a-rejected-promise-with-catch.js",
+  "main": "3-regex/8-match-single-character-with-multiple-possibilities.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon main"
