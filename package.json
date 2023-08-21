@@ -2,7 +2,7 @@
   "name": "freecodecamp",
   "version": "1.0.0",
   "description": "",
-  "main": "3-regex/8-match-single-character-with-multiple-possibilities.js",
+  "main": "3-regex/14-find-characters-with-lazy-matching.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon main"
